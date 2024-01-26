@@ -1,0 +1,8 @@
+
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(¶ýõöúÿÿÿÿ8·•¿’Ô1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(´Ž©¾ùÿÿÿÿ8üæ ’Ô1
+L	java:S106 "+Replace this use of System.out by a logger.(”Ý½¶üÿÿÿÿ8È•¿’Ô1
+L	java:S106""+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8É•¿’Ô1
+L	java:S106%"+Replace this use of System.out by a logger.(´ƒ”–ýÿÿÿÿ8Ê•¿’Ô1

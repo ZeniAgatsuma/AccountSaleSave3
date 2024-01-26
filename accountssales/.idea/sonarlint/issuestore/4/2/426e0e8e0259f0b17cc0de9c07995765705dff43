@@ -1,0 +1,8 @@
+
+M
+java:S2160"+Override the "equals" method in this class.(àÍëòüÿÿÿÿ8è¯÷–Ô1
+G	java:S106)"+Replace this use of System.out by a logger.(£¾³©8ï¯÷–Ô1
+L	java:S1066"+Replace this use of System.out by a logger.(»÷î‚ùÿÿÿÿ8ñ¯÷–Ô1
+F	java:S106C"+Replace this use of System.out by a logger.(ÊØ·%8ò¯÷–Ô1
+G	java:S106o"+Replace this use of System.out by a logger.(£¾³©8÷¯÷–Ô1
+F	java:S106}"+Replace this use of System.out by a logger.(ÊØ·%8´Üÿ–Ô1

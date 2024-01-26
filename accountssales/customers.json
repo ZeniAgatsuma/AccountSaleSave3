@@ -1,0 +1,82 @@
+[
+  {
+    "nickname": "christoper.howell",
+    "password": "#9vTfx62pJTwusaydKo",
+    "email": "richie.sawayn@gmail.com",
+    "paymentMethod": "Credit Card",
+    "isValid": false,
+    "id": "d0d4b6ba-37bf-451e-9fd5-950d0cca2899"
+  },
+  {
+    "nickname": "ethan.beer",
+    "password": "1G\u0026vF#5sJ6w@SrcOM601a",
+    "email": "lauretta.erdman@yahoo.com",
+    "paymentMethod": "Debit Card",
+    "isValid": false,
+    "id": "44a45b45-9730-4e15-aa15-9c7aa7776bfa"
+  },
+  {
+    "nickname": "keith.cassin",
+    "password": "WdBFhov%t2SO4V",
+    "email": "dorsey.osinski@hotmail.com",
+    "paymentMethod": "Bitcoin",
+    "isValid": false,
+    "id": "503ce84b-347c-4481-bd42-429802d6625d"
+  },
+  {
+    "nickname": "susana.rodriguez",
+    "password": "N6Nm3oV37548D432R3Yiz9EB@0YE",
+    "email": "mirian.sanford@hotmail.com",
+    "paymentMethod": "Google Pay",
+    "isValid": false,
+    "id": "6aabe071-949a-42a5-87ae-1075978e3d79"
+  },
+  {
+    "nickname": "buck.kris",
+    "password": "dWH$Y#W6S0pq90",
+    "email": "lessie.nolan@hotmail.com",
+    "paymentMethod": "Apple Pay",
+    "isValid": false,
+    "id": "513f5572-6879-456a-8a58-960f3907b907"
+  },
+  {
+    "nickname": "tommye.jacobs",
+    "password": "IF8zHyqa\u0026KVn9O%Ii38UMPxjYPc6g8",
+    "email": "mamie.spinka@hotmail.com",
+    "paymentMethod": "Debit Card",
+    "isValid": false,
+    "id": "bc9d2c7b-ac52-48fe-91bf-82b3b2388084"
+  },
+  {
+    "nickname": "retha.doyle",
+    "password": "JSgde^Vk3",
+    "email": "mike.wiza@hotmail.com",
+    "paymentMethod": "Credit Card",
+    "isValid": false,
+    "id": "6a63457f-bd7d-4e35-aeaa-e49a824b10cd"
+  },
+  {
+    "nickname": "nakia.miller",
+    "password": "8O18o6MA1@REpe@bY",
+    "email": "homer.herman@gmail.com",
+    "paymentMethod": "Bitcoin",
+    "isValid": false,
+    "id": "f104ba91-5eac-4681-acac-228cb070a8e6"
+  },
+  {
+    "nickname": "loyce.auer",
+    "password": "4UU96L\u0026dJ@$",
+    "email": "collen.gaylord@yahoo.com",
+    "paymentMethod": "Google Pay",
+    "isValid": false,
+    "id": "692937e6-5c86-40b3-88c2-30b9a3b3d934"
+  },
+  {
+    "nickname": "azucena.hilpert",
+    "password": "1%WtW6trOaQ3533D658RZk8zq7fl\u0026I",
+    "email": "ginny.white@gmail.com",
+    "paymentMethod": "Debit Card",
+    "isValid": false,
+    "id": "07762752-ea94-4e58-b0be-fedb0f9223c1"
+  }
+]

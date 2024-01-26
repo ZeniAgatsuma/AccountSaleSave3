@@ -1,0 +1,20 @@
+[
+  {
+    "nickname": "іваіва",
+    "password": "$2a$10$dLH2HyVF/c9q1ZuHwC9yEOqajyT6Kgl98DCBeAqT9xKxnETwaTsuW",
+    "isValid": false,
+    "id": "3d769921-0b55-48b8-9770-743ed854f5d0"
+  },
+  {
+    "nickname": "ZeniAgatsuma",
+    "password": "$2a$10$.wjVfej/J0SSHvBIpy.zG./bXrvJf5lLuIndnwN7DvsieOnELHfAO",
+    "isValid": false,
+    "id": "cf0d0aed-ecf5-4961-b5e3-2cb5258b5dd3"
+  },
+  {
+    "nickname": "vcfsd",
+    "password": "sdfsdfdsfF#3",
+    "isValid": false,
+    "id": "bcd3e1cc-ec81-4ae1-a165-f6ac6e23be3b"
+  }
+]

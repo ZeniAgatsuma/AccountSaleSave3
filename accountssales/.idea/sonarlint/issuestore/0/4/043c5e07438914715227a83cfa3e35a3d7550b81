@@ -1,0 +1,12 @@
+
+c
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(¸å¶8¿âò¹Ô1
+V
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ãƒ'8¦Ÿ­¹Ô1
+G	java:S106"+Replace this use of System.out by a logger.(çÁä8®‰·¹Ô1
+L	java:S106"+Replace this use of System.out by a logger.(Ù¬ÉÁùÿÿÿÿ8¯‰·¹Ô1
+G	java:S106$"+Replace this use of System.out by a logger.(»†¨¬8™Çï¹Ô1
+G	java:S106'"+Replace this use of System.out by a logger.(ğÿ„Š8™Çï¹Ô1
+:
+java:S2119."Save and re-use this "Random".(¼İÅf8«Ÿ­¹Ô1
